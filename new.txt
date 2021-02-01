@@ -1,0 +1,5 @@
+My student ID is: 1234 My GPAs are: 3.35 3.80 4.00 3.67
+My student ID is: 5678 My GPAs are: 2.39 2.67 2.90 3.10
+My student ID is: 9012 My GPAs are: 1.39 1.67 2.65 1.55
+My student ID is: 3456 My GPAs are: 3.90 3.67 3.00 3.57
+My student ID is: 7890 My GPAs are: 3.39 3.67 4.00 3.78
